@@ -1,4 +1,4 @@
-#Grupo
+#Grupo 9
 #include <LiquidCrystal.h>  //Carrega a biblioteca Pantalla
 #include <DHT.h> //Carrega a biblioteca DHT
 #define DHTPIN 13     // Pin donde está conectado el sensor
